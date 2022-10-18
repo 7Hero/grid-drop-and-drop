@@ -1,0 +1,10 @@
+.App {
+  width: 500px;
+}
+
+@keyframes flat {
+  to {
+    z-index: 0;
+  }
+}
+
